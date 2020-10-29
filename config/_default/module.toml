@@ -1,4 +1,3 @@
-[module]
 # This is the default value, but see https://github.com/gohugoio/hugo/issues/7903
 proxy="direct"
 
