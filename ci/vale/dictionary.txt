@@ -44,6 +44,7 @@ apparmor
 appimage
 appletalk
 approvers
+appsec
 appserver
 apxs
 architecting
@@ -53,6 +54,7 @@ arping
 askbot
 aske
 async
+asynchrony
 authdaemonrc
 authlib
 authmodulelist
@@ -86,6 +88,7 @@ avz
 awk
 awstats
 azc
+backdoors
 backend
 backends
 backported
@@ -120,6 +123,7 @@ blockwise
 bluehost
 bookinfo
 boolean
+booleans
 boolstyle
 boonex
 bootable
@@ -131,6 +135,7 @@ bounceback
 brackley
 bram
 brd
+brightbox
 browserify
 bs4
 btmp
@@ -175,6 +180,7 @@ changeset
 characterwise
 chatrooms
 cheatsheet
+checkmarx
 checksummed
 checksums
 chefspec
@@ -212,6 +218,8 @@ cmusieve
 cnf
 codebase
 codec
+colab
+colormaps
 com2sec
 comodo
 completekey
@@ -232,6 +240,7 @@ copyfrom
 copyto
 coreutils
 corporateclean
+courseware
 cpanminus
 cpu
 cqlsh
@@ -261,6 +270,7 @@ ctx
 cuda
 cutover
 cyberduck
+cyberpanel
 cyg
 cygwin
 cyclomatic
@@ -275,6 +285,7 @@ dahdi
 databags
 datacenter
 datadir
+Datadog
 dataflow
 datagram
 dataset
@@ -305,6 +316,7 @@ deprovisioning
 descolada
 descr
 deserialize
+despawn
 dest
 dereference
 dereferencing
@@ -395,11 +407,13 @@ esc
 etcd
 etcd0
 eth0
+ethtool
 eugen
 evhost
 example1
 example2
 examplegroup
+examplenamespace
 examplepassword
 examplerole
 examplesitename
@@ -423,6 +437,7 @@ fastcgi
 fastmail
 fastopen
 fauxhai
+fauxton
 favicon
 fb4c
 fcgi
@@ -471,6 +486,7 @@ fmt
 fn
 fpm
 fragging
+framebuffer
 frakti
 framesets
 freedns
@@ -490,6 +506,7 @@ gamepad
 gamepedia
 gameplay
 gandi
+gartner
 gatsby
 gbps
 gcc
@@ -537,6 +554,7 @@ goldmark
 goroutine
 goroutines
 goto
+gpasswd
 gpc
 gpg
 gradle
@@ -549,6 +567,7 @@ greylisting
 griefing
 griesemer
 groot
+groupinfo
 grsecurity
 gsa
 gsad
@@ -571,6 +590,7 @@ hardcoded
 hardcopy
 hardlimit
 hashmark
+hashicorp
 hasn
 hba
 hd0
@@ -592,6 +612,7 @@ host1
 host2
 hostname
 hostnames
+hotfix
 hotlink
 hotlinked
 hotlinking
@@ -614,6 +635,7 @@ https
 hulu
 hvc0
 hybla
+hypercorn
 hyperefficient
 hyperparameter
 hypervisor
@@ -651,8 +673,10 @@ imapd
 imaps
 img
 immutant
+imperva
 impor
 incentivized
+inclusivity
 inet
 inet6
 infographic
@@ -662,6 +686,7 @@ initializer
 initramfs
 initrd
 inittab
+injectable
 inode
 inotify
 insmod
@@ -670,6 +695,7 @@ interdomain
 interruptible
 introducer
 introducers
+io
 iodef
 iotop
 ip
@@ -686,17 +712,22 @@ ipv4
 ipv6
 ipwl
 irc
+irchelp
 ircname
 iredmail
+irqbalance
 irssi
 isn
 iso
+isort
 isoformat
 isp
 issuewild
 istioctl
 iterable
 itk
+Janca
+jamstack
 java6
 javac
 javascript
@@ -718,6 +749,7 @@ journald
 journaled
 journaling
 jpg
+jpetazzo
 jre
 js
 json
@@ -727,7 +759,9 @@ jumpbox
 junit
 jupyter
 jx
+kaggle
 kakfa
+kamkar
 kbits
 keepalive
 keepalived
@@ -753,14 +787,17 @@ killall
 kinser
 kitchensalt
 klei
+klocwork
 kloth
 kloxo
 knowledgebase
+konsole
 konversation
 kube
 kubeadm
 kubeconfig
 kubectl
+kubectx
 kubeflow
 kubelet
 kubelets
@@ -798,6 +835,7 @@ libyang
 libuv
 libvirt
 lifecycle
+lightbend
 lighthttpd
 lighttpd
 lighty
@@ -819,6 +857,7 @@ loadavg
 loadout
 localdomain
 localhost
+localuser
 lockdown
 lodash
 logallrefupdates
@@ -864,6 +903,7 @@ maitis
 makefile
 managesieve
 mandriva
+manjaro
 manyof
 mapbox
 mapreduce
@@ -890,17 +930,21 @@ md5
 md5sum
 mdev
 mediawiki
+megatrends
 melilla
 memcached
 memcrashed
 menuentry
 mesos
 metabase
+metacharacter
+metacharacters
 metacity
 metapackage
 metaparameters
 metorik
 metricbeat
+microblogging
 microblogs
 microservice
 microservices
@@ -921,20 +965,24 @@ minitest
 misconfiguration
 misconfigurations
 misconfigured
+missingness
 mitigations
 mixin
 mixins
 mkdir
+mkpasswd
 mnesia
 mngtmpaddr
 moby
 moddable
+moodle
 modsecurity
 mongodb
 mongoimport
 monit
 monitorix
 moolenaar
+morphisec
 motd
 mountpoint
 mouseover
@@ -952,6 +1000,7 @@ multicast
 multicloud
 multicraft
 multilib
+multiline
 multiport
 multisite
 multiuser
@@ -966,6 +1015,7 @@ myhostname
 mynewdomain
 mypassword
 myproject
+mypy
 myserver
 mysql
 mysqli
@@ -1099,6 +1149,7 @@ overengineer
 overwatch
 ovpn
 owadb
+owncast
 owncloud
 pacman
 paas
@@ -1133,6 +1184,7 @@ percona
 performant
 permalink
 permalinks
+Petazzoni
 pflogsumm
 pgpass
 pharmer
@@ -1222,6 +1274,7 @@ py
 pyamqp
 pyenv
 pyinotify
+pylint
 pypa
 pypi
 pypiserver
@@ -1237,6 +1290,7 @@ quickconnect
 quicklisp
 quickstart
 ramdisk
+rbac
 rbenv
 rc
 rce
@@ -1259,6 +1313,7 @@ redeployable
 redhat
 redir
 redis
+redislabs
 redmin
 redmine
 redstone
@@ -1288,6 +1343,7 @@ respawn
 resque
 restapi
 restic
+restreaming
 retargetly
 retpoline
 retrans
@@ -1327,6 +1383,7 @@ runfile
 runlevels
 runtime
 runtimes
+rustup
 rvm
 rw
 rwx
@@ -1338,6 +1395,7 @@ s3cret
 saas
 sakila
 salesforce
+samy
 sar
 sasl
 sasl2
@@ -1349,6 +1407,7 @@ savvii
 sbackup
 sbin
 sbopkg
+sbt
 scgi
 schaeffer
 scm
@@ -1361,6 +1420,7 @@ sda
 sda1
 sdb
 sdc
+seaborn
 seafile
 seahub
 searchbots
@@ -1404,6 +1464,7 @@ shortguide
 shortguides
 shortname
 shoutcast
+scikit
 sidekiq
 sievers
 signup
@@ -1524,6 +1585,7 @@ tcp
 tcpwrappers
 teamspeak
 teardown
+teleporting
 tensorflow
 terrahelp
 terraria
@@ -1536,6 +1598,7 @@ tetris
 tf
 tfa
 tgz
+thanos
 thawte
 theano
 theming
@@ -1566,6 +1629,7 @@ tomcat6
 torvalds
 toolchain
 toolchains
+toolset
 traceroute
 trackbar
 traefik
@@ -1579,15 +1643,18 @@ tt
 ttl
 ttpd
 ttrss
+tty
 tun0
 tune2fs
 tunnelblick
 turtl
 tv
 tw
+twilio
 txt
 txz
 tzurbaev
+ubuntu
 ucd
 udp
 ufw
@@ -1647,6 +1714,7 @@ usercolumn
 userdb
 usergroup
 userland
+usermod
 usersor
 usr
 ust
@@ -1669,10 +1737,12 @@ vdevs
 ve
 venv
 ver
+veracode
 verisign
 vhost
 vhosts
 vimrc
+vinagre
 virb
 virtio
 virtualenv
@@ -1682,6 +1752,8 @@ virtualhost
 virtualizations
 virtualized
 virtualmin
+vlan
+vlans
 vlogger
 vmail
 vmem
@@ -1763,6 +1835,7 @@ www
 wx
 xabbix
 xap
+xargs
 xcalc
 xcode
 xen
@@ -1787,11 +1860,13 @@ xtables
 xvda
 xvdb
 xvdc
+xvnc
 xxen
 xy
 xzio
 xzip
 yaml
+yellowbrick
 yellowdog
 yesod
 yml
